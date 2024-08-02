@@ -4,6 +4,8 @@
 ## 🚀 About Me
 I'm a passionate software developer with experience in Python, Django, JavaScript, React and more. I'm currently exploring new opportunities in web development and looking forward to contributing to exciting projects.
 
+## 🎓 Education
+- **Bachelor of Computer Applications (BCA)**
 
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
