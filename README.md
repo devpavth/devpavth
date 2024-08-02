@@ -10,6 +10,8 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 
+## 📈 GitHub Stats
+
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
