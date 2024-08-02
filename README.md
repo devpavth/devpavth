@@ -11,7 +11,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 - [LinkedIn](https://www.linkedin.com/in/pavithradevi-m2441/)
 
 ## 📈 GitHub Stats
-<img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpavth&layout=compact&theme=radical" alt="Top Langs" />
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpavth&layout=compact&theme=radical" alt="Top Langs" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=devpavth&show_icons=true&theme=radical" alt="Pavithradevi's GitHub stats" />
 
 
