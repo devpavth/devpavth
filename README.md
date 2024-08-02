@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Pavithradevi 👋</h1>
-<h1 align="center"> BCA Graduate, with a keen interest in 🖥️ Software & Web Development 🖥️ </h1>
+<h3 align="center"> BCA Graduate, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
 
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
