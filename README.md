@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there, I'm Pavithradevi 👋</h1>
 <h3 align="center"> BCA Graduate, with a keen interest in 🖥️ Software & Web Development 🖥️ </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpavth&label=Profile%20views&color=0e75b6&style=flat" alt="devpavth" /> </p>
+
 ## 🚀 About Me
 I'm a passionate software developer with experience in Python, Django, JavaScript, React and more. I'm currently exploring new opportunities in web development and looking forward to contributing to exciting projects.
 
