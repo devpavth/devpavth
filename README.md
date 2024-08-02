@@ -11,9 +11,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/pavithradevi-m2441/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/pavithradevi-m2441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/    linked-in-alt.svg" alt="pavithradevi-m2441" height="30" width="40" /></a>
 </p>
 
 ## 📈 GitHub Stats
