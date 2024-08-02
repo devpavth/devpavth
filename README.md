@@ -13,7 +13,6 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-- [LinkedIn](https://www.linkedin.com/in/pavithradevi-m2441/)
 
 ## 📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpavth&layout=compact&theme=radical" alt="Top Langs" />
