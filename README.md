@@ -15,6 +15,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=devpavth&show_icons=true&theme=radical" alt="Pavithradevi's GitHub stats" />
 
 <br>  <!-- This is to ensure a line break before the Fun Facts section -->
+<br>
 ## 🎨 Fun Facts
 - I love exploring new technologies and solving coding challenges.
 
