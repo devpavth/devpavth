@@ -11,6 +11,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 
 ## 📈 GitHub Stats
+![Pavithradevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpavth&show_icons=true&theme=radical)
 
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
