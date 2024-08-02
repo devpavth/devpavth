@@ -18,6 +18,8 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 ## 🎨 Fun Facts
 - I love exploring new technologies and solving coding challenges.
 
+Thanks for stopping by! 😊
+
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
