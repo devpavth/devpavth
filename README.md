@@ -25,9 +25,10 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpavth&" alt="devpavth" /></p>
 
+<!--
 ## 📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpavth&layout=compact&theme=radical" alt="Top Langs" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=devpavth&show_icons=true&theme=radical" alt="Pavithradevi's GitHub stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=devpavth&show_icons=true&theme=radical" alt="Pavithradevi's GitHub stats" /> -->
 
 <br>  <!-- This is to ensure a line break before the Fun Facts section -->
 <br>
