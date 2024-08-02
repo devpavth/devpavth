@@ -7,6 +7,9 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 ## 🎓 Education
 - **Bachelor of Computer Applications (BCA)**
 
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+
 <!--
 **devpavth/devpavth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
