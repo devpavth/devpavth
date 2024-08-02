@@ -16,6 +16,10 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 
 <br>  <!-- This is to ensure a line break before the Fun Facts section -->
 <br>
+<br>
+<br>
+<br> 
+
 ## 🎨 Fun Facts
 - I love exploring new technologies and solving coding challenges.
 
