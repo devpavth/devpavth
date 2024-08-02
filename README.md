@@ -8,6 +8,11 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 - **Bachelor of Computer Applications (BCA)**
 
 ## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavithradevi-m2441/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 - [LinkedIn](https://www.linkedin.com/in/pavithradevi-m2441/)
 
 ## 📈 GitHub Stats
