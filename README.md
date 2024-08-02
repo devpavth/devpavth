@@ -10,7 +10,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 - **Bachelor of Computer Applications (BCA)**
 
 ## 📫 How to reach me
-Email: paviguna116@gmail.com
+- Email: paviguna116@gmail.com
 
 ## 🌐 Connect with Me
 <p align="left">
