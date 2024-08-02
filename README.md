@@ -24,7 +24,6 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 <br>
 <br>
 <br>
-<br>
 
 ## 🎨 Fun Facts
 - I love exploring new technologies and solving coding challenges.
