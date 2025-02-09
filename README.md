@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpavth&label=Profile%20views&color=0e75b6&style=flat" alt="devpavth" /> </p>
 
 ## 🚀 About Me
-I'm a passionate software developer with experience in Python, Django, JavaScript, React and more. I'm currently exploring new opportunities in web development and looking forward to contributing to exciting projects.
+I'm a software developer with experience in Angular, JavaScript, TypeScript, Python, Django, React and more. I'm currently exploring new opportunities in web development and looking forward to contributing to exciting projects.
 
 ## 🎓 Education
 - **Bachelor of Computer Applications (BCA)**
