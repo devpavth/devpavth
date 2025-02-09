@@ -16,7 +16,7 @@ I'm a passionate software developer with experience in Python, Django, JavaScrip
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/pavithradevi-m2441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithradevi-m2441" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pavigu7wna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pavigu7wna/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pavigu7wna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pavigu7wna/" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages and Tools
